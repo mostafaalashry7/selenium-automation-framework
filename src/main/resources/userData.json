@@ -1,0 +1,17 @@
+{
+    "Email": "mostafa@gmail.com",
+    "Password": "password1234",
+    "dayOfBirth": 15,
+    "monthOfBirth": "December",
+    "yearOfBirth": 1990,
+    "signUpFirstName": "sasa",
+    "signUpLastName": "alashry",
+    "signUpCompany": "colaa",
+    "signUpAddress1": "mdeent nasr",
+    "signUpAddress2": "masr elgdeda",
+    "signUpCountry": "India",
+    "signUpState": "cairo",
+    "signUpCity": "Giza",
+    "signUpZipCode": 1212,
+    "signUpPhone": "01023031181"
+  }
