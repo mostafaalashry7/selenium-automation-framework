@@ -220,7 +220,7 @@ Run the framework using TestNG suite files:
 ## 📊 Allure Reporting
 
 ```bash
-allure serve target/allure-results
+allure serve allure-results
 ```
 
 ---
